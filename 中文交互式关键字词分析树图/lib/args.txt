@@ -1,0 +1,3 @@
+
+mytest1
+IKAnalyzer2012.jar,lucene-analyzers-3.4.0.jar,lucene-core-3.4.0.jar,lucene-highlighter-3.4.0.jar,mytest1.jar,core.jar,jogl-all.jar,gluegen-rt.jar,jogl-all-natives-windows-i586.jar,gluegen-rt-natives-windows-i586.jar,treemap.jar
